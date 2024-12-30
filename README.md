@@ -14,7 +14,7 @@ O relógio mostra as horas, minutos e segundos em um formato analógico e digita
 - Alternância entre "Modo Claro" e "Modo Escuro".
 
 ## Prévia
-<img src="preview.png" alt="Prévia do Relógio com Tema" width="500">
+<img src="https://github.com/user-attachments/assets/56953099-a7b7-4348-a3e8-56e0c24341ca" alt="Prévia do Relógio com Tema" width="500">
 
 ## Como Usar
 1. Clone este repositório:
