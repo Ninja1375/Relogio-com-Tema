@@ -16,4 +16,35 @@ O relógio mostra as horas, minutos e segundos em um formato analógico e digita
 ## Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/relogio-com-tema.git
+   git clone https://github.com/Ninja1375/Relogio-com-Tema.git
+   ```
+
+2. Navegue até a pasta do projeto:
+
+   ```bash
+   cd Relogio-com-Tema
+   ```
+
+3. Abra o arquivo `index.html` em um navegador.
+
+## Estrutura do Projeto
+
+- `index.html`: Contém a estrutura HTML.
+
+- `style.css`: Contém os estilos visuais do relógio.
+
+- `script.js`: Contém a lógica do relógio e alternância de temas.
+
+## Tecnologias Utilizadas
+
+- **HTML:** Estrutura da página.
+- **CSS:** Estilos visuais e transições.
+- **JavaScript**: Lógica de funcionamento do relógio e interação.
+
+## Personalização
+
+Você pode personalizar o projeto alterando:
+
+- As cores no arquivo `style.css`.
+
+- O formato de hora ou data no arquivo `script.js`.
